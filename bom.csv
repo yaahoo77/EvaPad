@@ -1,0 +1,11 @@
+Item,Qty needed,Sold as,Packs to buy,Price per pack,Currency,Cost (USD),Cost (PLN),Link
+EvaPad custom PCB (2-layer),1,5 pcs (min. order),1,2.00,USD,2.00,7.82,https://cart.jlcpcb.com/quote
+Seeed Studio XIAO RP2040 (unsoldered),1,1 pc,1,24.75,PLN,6.33,24.75,https://pl.rs-online.com/web/p/plytki-i-zestawy-zgodne-z-arduino/2500966
+MX-style switch - Gateron KS-3 Milky Yellow Pro (5-pin),4,18 pcs,1,4.14,USD,4.14,16.19,https://divinikey.com/products/gateron-ks-3-milky-yellow-pro-linear-switches
+White blank DSA keycap 1u,4,10 pcs,1,5.80,GBP,7.82,30.59,https://thepihut.com/products/white-dsa-keycaps-for-mx-compatible-switches-10-pack
+EC11 rotary encoder with switch (20mm shaft),1,1 pc,1,1.99,USD,1.99,7.78,https://keeb.io/products/rotary-encoder-ec11
+Heatset insert M3 (brass),4,50 pcs,1,5.95,USD,5.95,23.26,https://www.adafruit.com/products/4255
+Screw M3x16mm,4,25 pcs,1,3.31,USD,3.31,12.94,https://www.pololu.com/product/2698
+3D printed case (top + bottom),1,print yourself,0,0.00,USD,0.00,0.00,https://github.com/yaahoo77/EvaPad/tree/main/production
+TOTAL (whole project),,,,,,31.54,123.33,
+"Exchange rates (NBP, 2026-11-04): 1 USD = 3.9097 PLN, 1 GBP = 5.2737 PLN",,,,,,,,
