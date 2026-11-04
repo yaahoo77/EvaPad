@@ -1,4 +1,3 @@
-<img width="957" height="1027" alt="image" src="https://github.com/user-attachments/assets/254e4319-564f-4f74-9271-c52124ac2067" /># Evapad
 
 Evapad is a compact 4-key macropad with an EC11 rotary encoder powered by the Seeed Studio XIAO RP2040.
 
