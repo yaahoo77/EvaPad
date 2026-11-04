@@ -24,14 +24,3 @@ Designed from scratch in KiCad.
 Configured for flexible layout changes QMK:
 * **Rotary Encoder:** Rotates for volume control, press down to toggle mute.
 * **4 Keys:** Mapped to custom shortcuts and macro actions.
-
-## BOM (Bill of Materials)
-
-Here is everything you need to build the Evapad:
-* 4x Cherry MX (or compatible) Switches
-* 4x Keycaps
-* 4x Heatset Inserts
-* 4x Bolts
-* 1x EC11 Rotary Encoder
-* 1x Seeed Studio XIAO RP2040
-* 1x Custom Case (2-layer design)
